@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **BPS**
 
-- 📄 Know about my experiences [Passionate junior full-stack developer with expertise in modern web technologies, constantly striving to learn and build innovative solutions](Passionate junior full-stack developer with expertise in modern web technologies, constantly striving to learn and build innovative solutions)
+- 📄 Passionate junior full-stack developer with expertise in modern web technologies, constantly striving to learn and build innovative solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
